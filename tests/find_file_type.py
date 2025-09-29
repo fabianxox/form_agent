@@ -4,7 +4,6 @@ import docx
 import fitz
 
 def load_document(file_name):
-    # All of these lines must be indented to be inside the function
     _, file_extension = os.path.splitext(file_name)
     file_extension = file_extension.lower()
 
@@ -19,7 +18,7 @@ def load_document(file_name):
     else:
         raise ValueError(f"Unsupported file type: {file_extension}")
 
-# --- Example of how to call the function ---
+
 file_name = "AI.docx"
 document_type = load_document(file_name)
 #print(f"The file {file_name} is of type: {document_type}")
