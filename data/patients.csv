@@ -1,0 +1,10 @@
+PatientID,Age,Gender,BloodType,Condition,AdmissionDate,DischargeDate
+PID001,45,Male,O+,Hypertension,15-01-2025,20-01-2025
+PID002,62,Female,A-,Diabetes Type 2,10-02-2025,14-02-2025
+PID003,28,Female,B+,Pneumonia,05-03-2025,12-03-2025
+PID004,51,Male,AB+,Coronary Artery Disease,20-03-2025,28-03-2025
+PID005,34,Male,O-,Kidney Stones,22-04-2025,25-04-2025
+PID006,76,Female,A+,Stroke,18-05-2025,02-06-2025
+PID007,19,Male,B-,Appendicitis,11-06-2025,14-06-2025
+PID008,58,Female,O+,Asthma,09-07-2025,11-07-2025
+PID009,42,Male,A-,Migraine,01-08-2025,01-08-2025
